@@ -9,5 +9,5 @@ public class GulimailWareApplication {
     public static void main(String[] args) {
         SpringApplication.run(GulimailWareApplication.class, args);
     }
-
+    
 }
